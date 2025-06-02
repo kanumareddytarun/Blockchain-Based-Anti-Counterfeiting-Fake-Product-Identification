@@ -60,6 +60,7 @@ Manufacturer ⟶ [Frontend UI] ⟶ [Node.js Backend] ⟶ [Smart Contracts]
 
 ---
 
+
 ## 📦 Project Structure
 
 ├── contracts/
@@ -80,83 +81,8 @@ Manufacturer ⟶ [Frontend UI] ⟶ [Node.js Backend] ⟶ [Smart Contracts]
 
 ---
 
+
 ## ⚙️ Installation & Setup
-
-### Prerequisites
-- Node.js & npm
-- Truffle Suite
-- Ganache
-- MetaMask Extension in Browser
-  
- ### Clone and Install
-git clone https://github.com/your-username/blockchain-anti-counterfeit.git
-cd blockchain-anti-counterfeit
-npm install
-
-Start Ganache
-Open Ganache and create a new workspace.
-
-Compile and Deploy Smart Contract
-
-truffle compile
-truffle migrate --network development
-
-Run Backend
-node src/app.js
-
-
-Access Frontend
-Open public/index.html in a browser with MetaMask configured to Ganache network.
-
-✅ Results
-Counterfeit detection improved by blockchain transparency
-
-Product traceability from manufacturer to consumer
-
-Real-time, QR-based verification with no third-party reliance
-
-🔮 Future Scope
-Integration with IoT sensors for dynamic tracking
-
-Mobile app for QR scanning
-
-NFT-based unique product tokens
-
-Public blockchain and cross-chain interoperability
-
-👨‍💻 Authors
-Kanumareddy Tarun
-
-Nallajarla Naga Krishna Manikanta
-
-Pondugala Ramya
-
-🏫 Department of CSE, Amrita Sai Institute of Science and Technology, Paritala, Andhra Pradesh, India
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-📚 References
-IEEE Access - Blockchain for Product Authentication
-
-MediLedger Project
-
-IBM Food Trust
-
-LVMH Aura Blockchain
-
-OECD Reports on Counterfeit Trade
-
----
-
-Let me know if you want me to generate:
-- The **actual `ProductRegistry.sol` smart contract**
-- A **simple frontend (HTML + JS)**
-- A working **Node.js backend sample**
-- Or help deploy this on GitHub Pages or Render
-
-Just say the word!
-
 
 
 ## Packages Required:-
@@ -213,3 +139,47 @@ npm run dev
  
 8. Login to metamask ,and connect the added account to local blockchain manually (i.e.localhost:3000)
 9. Interact with website
+
+
+
+
+✅ Results
+Counterfeit detection improved by blockchain transparency
+
+Product traceability from manufacturer to consumer
+
+Real-time, QR-based verification with no third-party reliance
+
+🔮 Future Scope
+Integration with IoT sensors for dynamic tracking
+
+Mobile app for QR scanning
+
+NFT-based unique product tokens
+
+Public blockchain and cross-chain interoperability
+
+👨‍💻 Authors
+Kanumareddy Tarun
+
+Nallajarla Naga Krishna Manikanta
+
+Pondugala Ramya
+
+🏫 Department of CSE, Amrita Sai Institute of Science and Technology, Paritala, Andhra Pradesh, India
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📚 References
+IEEE Access - Blockchain for Product Authentication
+
+MediLedger Project
+
+IBM Food Trust
+
+LVMH Aura Blockchain
+
+OECD Reports on Counterfeit Trade
+
+---
